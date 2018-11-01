@@ -1,0 +1,23 @@
+#all{
+    display:flex;
+    flex-wrap: wrap;
+}
+.middle{
+    margin:25px auto; 
+    width: 32.90%;
+}
+#hline{
+    width: 100%;
+}
+#padder{
+    padding: 9px;
+}
+.thumbnail{
+    padding: 0;
+}
+#deleteform{
+    display: inline;
+}
+#deletefor{
+    display: inline;
+}
